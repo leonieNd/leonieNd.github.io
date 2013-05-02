@@ -16,7 +16,7 @@
       <h1>jQuery Mobile 101</h1>
       <a href="#" class="jqm-navmenu-link" data-icon="bars" data-iconpos="notext">Navigation</a>
 
-	<img src="leo.jpg" height="100px" width="100px" alt="image" >
+	<img src="leo.jpg" width="10px"  height="10PX"alt="image" >
 	
     </div>
     
